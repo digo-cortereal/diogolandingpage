@@ -1,0 +1,8 @@
+.rights{
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.5) 70%), url(../../images/conspirancy.jpg);
+	color: white;
+	padding: 10px 0px;	
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
